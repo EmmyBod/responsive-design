@@ -1,0 +1,10 @@
+/* mobile view  */
+@media only screen and (max-width: 768px) {
+    /* import global varaibles  */
+    
+@import url(./style.css);
+    
+    /* other styles below  */
+    
+    
+    }
